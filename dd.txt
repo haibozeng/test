@@ -1,8 +1,1 @@
-d
-
-dd
-ddd
-
-
-
-ddd:wq
+fix issue 43
